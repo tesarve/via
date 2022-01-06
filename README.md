@@ -23,6 +23,7 @@ Typical scenario:
 - Bing: https://docs.microsoft.com/en-us/rest/api/cognitiveservices-bingsearch/bing-web-api-v7-reference
 - Imgur: https://api.imgur.com/
 - DeepL: https://www.deepl.com/en/docs-api/
+- xkcd: https://www.programmableweb.com/api/xkcd-rest-api
 
 
 ## Questions  
